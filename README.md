@@ -1,3 +1,3 @@
-# voiceroid_remote_controller_library
+# say-on-voicroid-library 
 
 currenty support only EX.
